@@ -1,0 +1,7 @@
+name: Route53Test1
+description: |
+  Rancher External DNS service powered by Amazon Route53
+version: v1.0
+category: Test
+maintainer: "Testing. <test@test.com>"
+license: testlicense
